@@ -1,0 +1,5 @@
+interface:
+  display_name: "红蓝主题封面"
+  short_description: "自动选用已授权照片，制作并检查红蓝主题的横版与竖版视频封面"
+  default_prompt: "使用 $red-blue-cover，根据以下主题或口播稿制作红蓝封面；照片从我已授权的素材中选择。"
+

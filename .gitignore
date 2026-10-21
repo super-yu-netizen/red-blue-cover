@@ -1,0 +1,17 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+photos/
+personal-photos/
+reference-photos/
+output/
+outputs/
+review/
+cache/
+.cache/
+*.zip
+
